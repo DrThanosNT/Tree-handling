@@ -1,5 +1,5 @@
 
-# ree-handling
+# Tree-handling
 
 **Console application for efficient player management using a balanced binary tree structure.**
 
